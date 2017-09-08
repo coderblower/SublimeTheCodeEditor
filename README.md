@@ -17,7 +17,7 @@ B98FC99C 8FAC73EE D2B95564 DF450523
 —— END LICENSE ——
 ```
 
-#Sublime 3 Package manager install
+# Sublime 3 Package manager install
 
 The simplest method of installation is through the Sublime Text console. The console is accessed via the `ctrl+`  shortcut or the` View > Show Console menu`. Once open, paste the appropriate Python code for your version of Sublime Text into the console
 
@@ -78,7 +78,7 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 
 
 
-# snippet For wordpress  sytle.css  tabtrigger " `theme_info`"
+# Snippet For wordpress  sytle.css  tabtrigger " `theme_info`"
 
 
 ```
