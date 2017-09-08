@@ -78,8 +78,7 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 
 
 
-# Sublime text snippet 
-## For wordpress -> sytle.css ( tab trigger " `theme_info`")
+# snippet For wordpress  sytle.css  tabtrigger " `theme_info`"
 
 
 ```
